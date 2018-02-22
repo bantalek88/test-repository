@@ -1,4 +1,4 @@
-# Test Repository
+﻿# Test Repository
 This is a test repository for the SUNY Oswego CSA Git Workshop.
 
 ## Participants
@@ -15,3 +15,4 @@ This is a test repository for the SUNY Oswego CSA Git Workshop.
 * Daniel Munoz
 * Heng-Hao Pu
 * Nathan O'Leary
+* Brian Antalek 
